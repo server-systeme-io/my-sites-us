@@ -31,3 +31,7 @@ section.content .fr h1{
 	font-size: 3em;
 }
 }
+
+.faqCard {
+    width: 80% !important;
+}
